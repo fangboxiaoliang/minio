@@ -16,7 +16,7 @@
 
 import React from "react"
 import { Modal } from "react-bootstrap"
-import logo from "../../img/logo.svg"
+import logo from "../../img/logoz.svg"
 
 export const AboutModal = ({ serverInfo, hideAbout }) => {
   const { version, platform, runtime } = serverInfo

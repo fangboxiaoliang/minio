@@ -17,7 +17,7 @@
 import React from "react"
 import classNames from "classnames"
 import { connect } from "react-redux"
-import logo from "../../img/logo.svg"
+import logo from "../../img/logoz.svg"
 import * as actionsCommon from "./actions"
 
 export const MobileHeader = ({ sidebarOpen, toggleSidebar }) => (

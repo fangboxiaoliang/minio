@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <!-- Created with SVG-edit - http://www.86y.org/demo/svg/-->
+  <defs>
+    <filter id="svg_1_blur">
+      <feGaussianBlur stdDeviation="0.5" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="layer">
+    <title>Layer 1</title>
+    <text filter="url(#svg_1_blur)" font-weight="bold" stroke="#000000" transform="matrix(4.9539524000253214,0,0,8.482281345502887,-459.59872358750965,-360.6365908940633) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="40" id="svg_1" y="85.22746" x="157.38368" stroke-width="0" fill="#aad4ff">SI&#x27;XUN</text>
+  </g>
+</svg>
